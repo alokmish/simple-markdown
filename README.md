@@ -1,13 +1,38 @@
-## Running React on Repl.it
+## Simple Markdown
+This is a simple React web app to allow users to type in markdown and instantly view the preview of the same.
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+## Tools
+- react
+- vite
+- react-markdown
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
+## Getting Started
+- Run `npm install`
+- Run `npm run dev` for development mode
+- Run `npm run build` to create a production build
+- Run `npm run serve` to run the app in development mode and serve it at port `443`
 
-Using the two in conjunction is one of the fastest ways to build a web app.
+## License
+```
+MIT License
 
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
+Copyright (c) 2022 Alok Mishra
 
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the `.replit` file.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
